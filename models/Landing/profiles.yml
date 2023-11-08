@@ -1,0 +1,14 @@
+
+version: 2
+
+sources:
+  - name: Infofiscus
+    database: DBT_INFOFISCUS_LANDING_DEV
+    schema: SALESFORCE   
+    tables: 
+      - name: ACCOUNT
+      - name: CAMPAIGN 
+      - name: CONTACT 
+      - name: CAMPAIGNMEMBER
+      - name: LEADS
+      - name: OPPORTUNITIES

@@ -1,0 +1,1 @@
+{"_invocation_id": "859a3f51-cd0f-4543-9902-1c8a4dfbf9f5", "linked": {"0": {"name": "model.dbt_project.emp", "type": "model"}, "1": {"name": "model.dbt_project.emp2", "type": "model"}, "2": {"name": "model.dbt_project.samp", "type": "model"}, "3": {"name": "model.dbt_project.s", "type": "model"}}}
