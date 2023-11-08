@@ -7,4 +7,4 @@
         ) 
 }}
 
-    select * from {{ref('VW_CAMPAIGNS')}};
+    select * from {{ref('VW_CAMPAIGNS')}}
